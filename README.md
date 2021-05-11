@@ -7,10 +7,10 @@ This Repository includes files for:
 1. Linkedin Connecting Bot - Add unlimited number of contacts for free!
 2. Linkedin Messaging Bot - Send messages to as many of your contacts as you'd like!
 <br>
-<br>
 <b>Please Note</b> these bots were created for educational purposes, feel free to use whichever parts of my code as you'd like!
 <br>
 You can follow the step by step tutorials on my YouTube channel to see exactly how I did it:
+<br>
 <br>
 <b>Messaging Bot - Part 1</b>
 <br>
